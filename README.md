@@ -9,7 +9,7 @@ Machine Learning Lesson
 ```
 
 <br><hr>
-<br>
+
 
 # Nomenclature of Files
 - LRGD.ipynb : **Linear Regression and Gradient Descent**
